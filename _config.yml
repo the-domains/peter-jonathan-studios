@@ -1,0 +1,28 @@
+name: PETER JONATHAN STUDIOS
+favicon: null
+layout_spectrum: 0.6804428661707789
+typography_spectrum: 0.6616314500570297
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9919669916853309
+  lightness: 0.2443047089036554
+  saturation: 0.24647299712523818
+  rhythmicContrast: 0.6309891608543694
+purpose: []
